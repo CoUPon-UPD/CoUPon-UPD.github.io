@@ -1,0 +1,95 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="CoUPon.org" resolutions="1x" timestamp="1516973332863">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_base.css" crc="3848481320" ref="logout:table:manage:error:sign-up"/>
+    <file name="master_wip.css" crc="414676787" ref="index:about:organizations"/>
+    <file name="logout.css" crc="130408470" ref="logout"/>
+    <file name="table.css" crc="373473587" ref="table"/>
+    <file name="manage.css" crc="4013150139" ref="manage"/>
+    <file name="index.css" crc="419777883" ref="index"/>
+    <file name="error.css" crc="163687352" ref="error"/>
+    <file name="about.css" crc="419777883" ref="about"/>
+    <file name="organizations.css" crc="419777883" ref="organizations"/>
+    <file name="sign-up.css" crc="3886527501" ref="sign-up"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="museutils.js" crc="531812214" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="whatinput.js" crc="84559013" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="webpro.js" crc="4156477058" ref="sign-up:manage:error"/>
+    <file name="form_check.php" crc="471063127" ref="sign-up:manage:error"/>
+    <file name="form_process.php" crc="90077475" ref="sign-up:manage:error"/>
+    <file name="recaptchalib.php" crc="385583985" ref="sign-up"/>
+    <file name="form-u4809.php" crc="329996521" ref="sign-up"/>
+    <file name="form_throttle.php" crc="211381018" ref="manage:error"/>
+    <file name="form-u5724.php" crc="415789872" ref="manage"/>
+    <file name="pie.js" crc="3827607177" ref="logout:table"/>
+    <file name="form-u6128.php" crc="215985323" ref="error"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="288187198" seo="true" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="u5627-4.png" crc="3915725991" ref="index:organizations:about"/>
+    <file name="u5626-4.png" crc="71120474" ref="index:organizations:about"/>
+    <file name="u5608-4.png" crc="4157306542" ref="index:organizations:about"/>
+    <file name="u5595-4.png" crc="288185269" ref="index:organizations:about"/>
+    <file name="u5604-4.png" crc="228922444" ref="index:organizations:about"/>
+    <file name="u5614-4.png" crc="4002784690" ref="index:organizations:about"/>
+    <file name="u5623-4.png" crc="108136335" ref="index:organizations:about"/>
+    <file name="u5683-4.png" crc="11967112" ref="index:organizations:about"/>
+    <file name="wip.png" crc="4058361791" seo="true" ref="index:organizations:about"/>
+    <file name="u5705-4.png" crc="3520162" ref="index:organizations:about"/>
+    <file name="background.jpg" crc="4033430654" ref="index:organizations:sign-up:manage:about:logout:error:table"/>
+    <file name="u130-4.png" crc="3915725991" ref="sign-up:manage:logout:error:table"/>
+    <file name="u135-4.png" crc="71120474" ref="sign-up:manage:logout:error:table"/>
+    <file name="u4623-4.png" crc="4157306542" ref="sign-up:manage:logout:error:table"/>
+    <file name="u6354-4.png" crc="288185269" ref="sign-up:manage:logout:error:table"/>
+    <file name="u6376-4.png" crc="228922444" ref="sign-up:manage:logout:error:table"/>
+    <file name="u6397-4.png" crc="4002784690" ref="sign-up:manage:logout:error:table"/>
+    <file name="u6416-4.png" crc="108136335" ref="sign-up:manage:logout:error:table"/>
+    <file name="u4800-4.png" crc="488358236" ref="sign-up"/>
+    <file name="u4803-4.png" crc="128969983" ref="sign-up"/>
+    <file name="u4825-17.png" crc="457882090" ref="sign-up"/>
+    <file name="u4825-17-r.png" crc="4024684516" ref="sign-up"/>
+    <file name="u4825-17-m.png" crc="515570458" ref="sign-up"/>
+    <file name="u4825-17-fs.png" crc="3770399726" ref="sign-up"/>
+    <file name="recaptchamodeaudio.png" crc="321387380" ref="sign-up"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="4012741543" ref="sign-up"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="169475968" ref="sign-up"/>
+    <file name="recaptchamodeimage.png" crc="484269603" ref="sign-up"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="81540066" ref="sign-up"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="303121703" ref="sign-up"/>
+    <file name="recaptcharefresh.png" crc="47393460" ref="sign-up"/>
+    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="sign-up"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="sign-up"/>
+    <file name="recaptchahelp.png" crc="131403934" ref="sign-up"/>
+    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="sign-up"/>
+    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="sign-up"/>
+    <file name="u5730-17.png" crc="144369768" ref="manage"/>
+    <file name="u5730-17-r.png" crc="201403346" ref="manage"/>
+    <file name="u5730-17-m.png" crc="201403346" ref="manage"/>
+    <file name="u5730-17-fs.png" crc="432516638" ref="manage"/>
+    <file name="u5960-4.png" crc="217308356" ref="logout"/>
+    <file name="blank.gif" crc="4208392903" ref="logout:table"/>
+    <file name="u5964.png" crc="4072401875" ref="logout"/>
+    <file name="u5964-r.png" crc="4072401875" ref="logout"/>
+    <file name="u6130-17.png" crc="144369768" ref="error"/>
+    <file name="u6130-17-r.png" crc="201403346" ref="error"/>
+    <file name="u6130-17-m.png" crc="201403346" ref="error"/>
+    <file name="u6130-17-fs.png" crc="432516638" ref="error"/>
+    <file name="u6276-6.png" crc="314908891" ref="table"/>
+    <file name="u6280.png" crc="3868684834" ref="table"/>
+    <file name="u6280-r.png" crc="3868684834" ref="table"/>
+  </folder>
+  <file name="index.html" crc="4082258759" seo="true" mt="1516972883204" redirect="true"/>
+  <file name="organizations.html" crc="487949788" seo="true" mt="1516972883204" redirect="true"/>
+  <file name="sign-up.html" crc="9189235" seo="true" mt="1516973122228" redirect="true"/>
+  <file name="manage.html" crc="4083521720" seo="true" mt="1516973122228" redirect="true"/>
+  <file name="about.html" crc="3785830992" seo="true" mt="1516972883204" redirect="true"/>
+  <file name="logout.html" crc="3826866635" seo="true" mt="1516973122228" redirect="true"/>
+  <file name="error.html" crc="4158249190" seo="true" mt="1516973122228" redirect="true"/>
+  <file name="table.html" crc="72637720" seo="true" mt="1516973122228" redirect="true"/>
+</manifest>
