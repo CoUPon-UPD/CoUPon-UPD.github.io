@@ -1,5 +1,5 @@
 /*
-    Manage CSS - Design and Layout of manage.html
+    Index CSS - Design and Layout of index.html
     Copyright (C) 2018  Nikki Florita
 
     This is a course requirement for CS 192 Software Engineering II under the supervision of Asst. Prof. Ma. Rowena C. Solamo of the Department of Computer Science, College of Engineering, University of the Philippines, Diliman for the AY 2015-2016
@@ -101,17 +101,4 @@ body{
      position: relative;
      top:70px;
      padding: 20px;
-}
-.signin{
-     float:top;
-     padding:15px;
-     text-align: center;
-}
-
-.signin .form-group{
-     padding:10px;
-}
-
-.signin label{
-     display:block;
 }
